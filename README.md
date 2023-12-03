@@ -11,10 +11,10 @@
 ![add hotel](https://github.com/MeryemRACHYQ/EJB/assets/147452254/9d390d51-e072-429f-af4b-2e70caa47b61)
 # supprimer hotel 
 ![delete hotel](https://github.com/MeryemRACHYQ/EJB/assets/147452254/b7ecb4f9-cfa6-4b35-881e-4be86c511be1)
-
-![delete hotel2](https://github.com/MeryemRACHYQ/EJB/assets/147452254/2a0ec2f3-9d9c-4419-b026-93fa77b59b2e)
-# modifier hotel 
 ![delete hotel 2](https://github.com/MeryemRACHYQ/EJB/assets/147452254/6003f255-cc42-40a8-9848-37c3fff35316)
+# modifier hotel 
+
+![delete hotel2](https://github.com/MeryemRACHYQ/EJB/assets/147452254/2a0ec2f3-9d9c-4419-b026-93fa77b59b2e)l 
 
 # filtrage des hotels par ville
 
